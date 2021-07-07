@@ -1,0 +1,7 @@
+C:\Users\Ranieri\Desktop\AdapterExercise\bin\Debug\AdapterExercise.exe.config
+C:\Users\Ranieri\Desktop\AdapterExercise\bin\Debug\AdapterExercise.exe
+C:\Users\Ranieri\Desktop\AdapterExercise\bin\Debug\AdapterExercise.pdb
+C:\Users\Ranieri\Desktop\AdapterExercise\obj\Debug\AdapterExercise.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\AdapterExercise\obj\Debug\AdapterExercise.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\AdapterExercise\obj\Debug\AdapterExercise.exe
+C:\Users\Ranieri\Desktop\AdapterExercise\obj\Debug\AdapterExercise.pdb

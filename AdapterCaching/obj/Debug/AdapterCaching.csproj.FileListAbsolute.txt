@@ -1,0 +1,13 @@
+C:\Users\Ranieri\Desktop\AdapterCaching\bin\Debug\AdapterCaching.exe.config
+C:\Users\Ranieri\Desktop\AdapterCaching\bin\Debug\AdapterCaching.exe
+C:\Users\Ranieri\Desktop\AdapterCaching\bin\Debug\AdapterCaching.pdb
+C:\Users\Ranieri\Desktop\AdapterCaching\bin\Debug\MoreLinq.dll
+C:\Users\Ranieri\Desktop\AdapterCaching\bin\Debug\System.ValueTuple.dll
+C:\Users\Ranieri\Desktop\AdapterCaching\bin\Debug\MoreLinq.pdb
+C:\Users\Ranieri\Desktop\AdapterCaching\bin\Debug\MoreLinq.xml
+C:\Users\Ranieri\Desktop\AdapterCaching\bin\Debug\System.ValueTuple.xml
+C:\Users\Ranieri\Desktop\AdapterCaching\obj\Debug\AdapterCaching.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\AdapterCaching\obj\Debug\AdapterCaching.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\AdapterCaching\obj\Debug\AdapterCaching.csproj.CopyComplete
+C:\Users\Ranieri\Desktop\AdapterCaching\obj\Debug\AdapterCaching.exe
+C:\Users\Ranieri\Desktop\AdapterCaching\obj\Debug\AdapterCaching.pdb

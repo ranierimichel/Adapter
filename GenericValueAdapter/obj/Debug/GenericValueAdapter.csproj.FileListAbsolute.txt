@@ -1,0 +1,7 @@
+C:\Users\Ranieri\Desktop\GenericValueAdapter\bin\Debug\GenericValueAdapter.exe.config
+C:\Users\Ranieri\Desktop\GenericValueAdapter\bin\Debug\GenericValueAdapter.exe
+C:\Users\Ranieri\Desktop\GenericValueAdapter\bin\Debug\GenericValueAdapter.pdb
+C:\Users\Ranieri\Desktop\GenericValueAdapter\obj\Debug\GenericValueAdapter.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\GenericValueAdapter\obj\Debug\GenericValueAdapter.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\GenericValueAdapter\obj\Debug\GenericValueAdapter.exe
+C:\Users\Ranieri\Desktop\GenericValueAdapter\obj\Debug\GenericValueAdapter.pdb

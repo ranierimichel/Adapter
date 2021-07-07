@@ -1,0 +1,13 @@
+C:\Users\Ranieri\Desktop\VectorRaster\obj\Debug\VectorRaster.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\VectorRaster\obj\Debug\VectorRaster.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\VectorRaster\bin\Debug\VectorRaster.exe.config
+C:\Users\Ranieri\Desktop\VectorRaster\bin\Debug\VectorRaster.exe
+C:\Users\Ranieri\Desktop\VectorRaster\bin\Debug\VectorRaster.pdb
+C:\Users\Ranieri\Desktop\VectorRaster\bin\Debug\MoreLinq.dll
+C:\Users\Ranieri\Desktop\VectorRaster\bin\Debug\System.ValueTuple.dll
+C:\Users\Ranieri\Desktop\VectorRaster\bin\Debug\MoreLinq.pdb
+C:\Users\Ranieri\Desktop\VectorRaster\bin\Debug\MoreLinq.xml
+C:\Users\Ranieri\Desktop\VectorRaster\bin\Debug\System.ValueTuple.xml
+C:\Users\Ranieri\Desktop\VectorRaster\obj\Debug\VectorRaster.csproj.CopyComplete
+C:\Users\Ranieri\Desktop\VectorRaster\obj\Debug\VectorRaster.exe
+C:\Users\Ranieri\Desktop\VectorRaster\obj\Debug\VectorRaster.pdb
